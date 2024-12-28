@@ -1,6 +1,6 @@
 # NightkightZ
 <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="90">
-Blaze it up for all my mottos out there！
+<strong>Blaze it up for all my mottos out there!</strong>
 
 # Hi there! 👋
 
