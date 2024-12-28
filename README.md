@@ -1,10 +1,12 @@
 # NightkightZ
 My personal repository
+<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="150">
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I’m a business student with a keen interest in technology and programming. While my academic background lies in business studies, I’ve ventured into the world of coding to complement my learning and broaden my horizons. 
 
-### About Me  <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="200">
+### About Me  
 
 - 🎓 **Business Student**: My primary focus is on business and management studies, but I believe technology plays a crucial role in understanding and solving modern-day challenges. 
 - 💡 **Why I’m Here**: Using GitHub allows me to document my journey, learn from the community, and contribute to interesting projects. 
