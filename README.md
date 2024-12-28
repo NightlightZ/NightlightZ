@@ -1,5 +1,5 @@
 # NightkightZ
-<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="100">
+<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="50">
 
 # Hi there! 👋
 
