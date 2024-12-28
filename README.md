@@ -10,6 +10,9 @@ Blaze it up for all my mottos out there！
 <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="90" style="vertical-align: middle; margin-right: 10px;">
 Blaze it up for all my <strong>mottos</strong> out there!
 
+<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="90" style="vertical-align: middle; margin-right: 10px;">
+<span style="vertical-align: middle;">Blaze it up for all my <strong>mottos</strong> out there!</span>
+
 
 # Hi there! 👋
 
