@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a business student with a keen interest in t
 <table style="border: none; border-collapse: collapse;">
 <tr>
 <td style="border: none;">
-<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Profile Image" width="150">
+<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Profile Image" width="200">
 </td>
 <td style="border: none;">
 <ul>
