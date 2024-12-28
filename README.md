@@ -6,16 +6,18 @@ Welcome to my GitHub profile! I’m a business student with a keen interest in t
 
 ### About Me
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Profile Image" width="150" style="margin-right: 20px;">
-  <div>
-    <ul>
-      <li>🎓 <strong>Business Student</strong>: My primary focus is on business and management studies, but I believe technology plays a crucial role in understanding and solving modern-day challenges.</li>
-      <li>💡 <strong>Why I’m Here</strong>: Using GitHub allows me to document my journey, learn from the community, and contribute to interesting projects.</li>
-      <li>💻 <strong>Programming Goals</strong>: I aim to use programming as a tool to deepen my understanding of various subjects, explore the vast networked world, and gain insights into the digital era we live in.</li>
-    </ul>
-  </div>
-</div>
+<tr>
+<td>
+<img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Profile Image" width="150">
+</td>
+<td>
+<ul>
+<li>🎓 <strong>Business Student</strong>: My primary focus is on business and management studies, but I believe technology plays a crucial role in understanding and solving modern-day challenges.</li>
+<li>💡 <strong>Why I’m Here</strong>: Using GitHub allows me to document my journey, learn from the community, and contribute to interesting projects.</li>
+<li>💻 <strong>Programming Goals</strong>: I aim to use programming as a tool to deepen my understanding of various subjects, explore the vast networked world, and gain insights into the digital era we live in.</li>
+</ul>
+</td>
+</tr>
 
 
 
