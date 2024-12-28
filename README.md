@@ -2,6 +2,11 @@
 <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="90">
 Blaze it up for all my mottos out there！
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/d937ab6c-ea8e-45a3-9a8d-a697ca14dd06" alt="Hi AI Image" width="90" style="margin-right: 10px;">
+  <p>Blaze it up for all my <strong>mottos</strong> out there!</p>
+</div>
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I’m a business student with a keen interest in technology and programming. While my academic background lies in business studies, I’ve ventured into the world of coding to complement my learning and broaden my horizons. 
